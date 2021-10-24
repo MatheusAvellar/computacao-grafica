@@ -1,0 +1,6 @@
+O trabalho é criativo: criar uma cena virtual e a escrever no arquivo lab4.py. Vê um exemplo da cena no arquivo aula4.py - use esse arquivo como o esqueleto do seu arquivo lab4.py a ser entregue.
+Seguem mais detalhes:
+- Há 3 malhas em anexo: bob190k_tex.obj, spot190k_tex.obj, esquina_tex.obj que têm as coordenadas de texturas já definidas. Você pode usar essas malhas ou criar/encontrar malhas novas.
+- Há 5 imagens de texturas em anexo (arquivos .png) que são mapeadas nas malhas no exemplo anexado. Se têm que mudar pelo menos duas texturas ou encontrar/criar duas texturas novas a serem mapeadas.
+- Você deve colocar na cena vários modelos (carregar as malhas em formato .obj), mapear texturas neles, definir a posição, orientação e o tamanho deles. Portando edita o método carregarModelos do arquivo em anexo - você têm que criar uma cena differente do exemplo.
+- Em seguida: Você deve definir um movimento de uma câmera virtual captanto essa cena e mudar o FOV/focal lenght da lente da câmera. Descreve bem o seu objetivo desse movimento e setting da câmera. Escreve essa descrição como comentário do método que define a câmera e o movimento dela (no arquivo aula4.py o método é chamado dollyZoomTask).

@@ -1,0 +1,12 @@
+{
+  "width": 320,
+  "height": 220,
+  "scene": [
+    {
+      "shape":"circle",
+      "center":  [100, 100],
+      "radius": 80,
+      "color": [0, 0, 250]
+    }
+  ]
+}

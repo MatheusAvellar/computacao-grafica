@@ -1,0 +1,4 @@
+{
+    "kernel": "sobel",
+    "bhandler": "icrop"
+}
